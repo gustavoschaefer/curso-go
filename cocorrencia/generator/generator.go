@@ -29,4 +29,9 @@ func main() {
 	t2 := titulo("https://www.amazon.com.br", "https://www.youtube.com")
 	fmt.Println("Primeiros:", <-t1, "|", <-t2)
 	fmt.Println("Segundos:", <-t1, "|", <-t2)
+	//acao := "MGLU3"
+	//resp, _ := http.Get("https://www.google.com/finance/quote/" + acao + ":BVMF")
+	//html, _ := ioutil.ReadAll(resp.Body)
+	//r, _ := regexp.Compile("<div class=\"YMlKec fxKbKc\">(.*?)<\\/div>")
+	//fmt.Println(r.FindStringSubmatch(string(html))[1])
 }

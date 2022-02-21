@@ -1,2 +1,4 @@
 github.com/gustavoschaefer/goarea v0.0.0-20220218151251-0949b1d4ee0d h1:Nd5c77eRqSBy2rJUdCiPP0CpBph+0YL6a56DFsQE8BA=
 github.com/gustavoschaefer/goarea v0.0.0-20220218151251-0949b1d4ee0d/go.mod h1:NaYZ4AGzaE603KAhSTWReNDFoEEy+FVuW6MMcnHMtBs=
+github.com/gustavoschaefer/html v0.0.0-20220221112218-8c2ad019edab h1:HpV+Gat5tbEHFY4boJ6d4tI7KCjS8Nj4aLQH/YAjMZw=
+github.com/gustavoschaefer/html v0.0.0-20220221112218-8c2ad019edab/go.mod h1:AO/rNDcy2MF+zSVZNxRxAU9HXrOdO2wWbXTNmRsca3A=
